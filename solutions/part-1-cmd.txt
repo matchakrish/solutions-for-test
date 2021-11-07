@@ -1,1 +1,2 @@
+docker exec -d infracloudio/csvserver
 docker run -d infracloudio/csvserver
